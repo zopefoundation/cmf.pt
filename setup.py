@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-version = '0.7dev'
+version = '1.1dev'
 
 setup(name='cmf.pt',
       version=version,
